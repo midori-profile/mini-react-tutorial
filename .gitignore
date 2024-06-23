@@ -37,7 +37,6 @@ Thumbs.db
 .yarn/install-state.gz
 
 # NPM #
-package-lock.json
 npm-debug.log*
 
 .cache
