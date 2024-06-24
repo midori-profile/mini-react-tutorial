@@ -13,7 +13,7 @@ Read the full article here: [Unveiling React: A Deep Dive into the Principles th
 
 ```bash
 pnpm i
-pnpm run start
+pnpm run dev
 ```
 
 ## Overview
